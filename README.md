@@ -1,0 +1,1 @@
+Isso é apenas um teste. É o meu primeiro projeto de front-end no Git, e estou bastante empolgado para me aprofundar nessa área do desenvolvimento!
